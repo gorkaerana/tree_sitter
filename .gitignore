@@ -1,0 +1,10 @@
+# Emacs autosave and temp files
+*~
+\#*
+
+# Virtual environments
+venv*/
+
+# Data directories
+build/
+vendor/

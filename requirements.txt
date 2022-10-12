@@ -1,0 +1,7 @@
+tree_sitter
+GitPython
+loguru
+sexpdata
+
+# Development
+ipython
